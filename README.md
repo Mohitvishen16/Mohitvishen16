@@ -1,24 +1,27 @@
-# 💫 About Me:
-web development projects<br>
+### Hi there 👋, Mohit Singh
+#### I am GitHub Readme Generator's creator
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: node /MySql / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Web development 
+- 📫 How to reach me: Mail me at : mohitsingh3472@gmail.com 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohit.singhrajput.3701779?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit.singh_45_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-singh-vishen-6473092a3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohitsingh3472) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohitvishen16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohit-singh-vishen-6473092a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohit.singh_45_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mohitsingh3472)  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohitvishen16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohitvishen16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitvishen16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohitvishen16)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitvishen16)](https://github.com/anuraghazra/github-readme-stats)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mohitvishen16&icon=5&color=1)](https://visitcount.itsvg.in)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohitvishen16&show_icons=true&count_private=true)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mohitvishen16/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Mohitvishen16)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mohitvishen16)  
+
